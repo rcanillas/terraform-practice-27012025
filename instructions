@@ -1,0 +1,10 @@
+Mais si tu veux commencer à faire tu tf, je te conseil du coups de lire la partie Terminologie.
+Ca te permettra de connaitre les mots associé.
+La suite, c'est les structures des modules, pour l'instant, ça ne te sera pas utilie.
+Le plus simple est de pratiquer directement.
+Pour ça, je t'invite à faire le TP (oui, je suis prof :tire_la_langue:) suivant :
+Créer un repos terraform
+Dans ce repos, il te faudra coder le terraform pour déployé ta clé SSH d'upload dans github
+Une fois fait, il te faudra coder le terraform pour déployer un repo github
+Une fois que ce sera fait, on pourrai faire un point si tu veux et aborder la notion des modules.
+Car l'étape suivante sera de modifier le terraform pour ne déployé qu'une clé SSH mais plusieurs repo github. (modifié) 
